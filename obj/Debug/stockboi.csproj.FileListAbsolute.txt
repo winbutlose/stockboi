@@ -1,0 +1,13 @@
+G:\VisualStudio\source\repos\stockboi\stockboi\bin\Debug\stockboi.exe.config
+G:\VisualStudio\source\repos\stockboi\stockboi\bin\Debug\stockboi.exe
+G:\VisualStudio\source\repos\stockboi\stockboi\bin\Debug\stockboi.pdb
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.csprojAssemblyReference.cache
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.Form1.resources
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.Properties.Resources.resources
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.csproj.GenerateResource.cache
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.csproj.CoreCompileInputs.cache
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.exe
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.pdb
+G:\VisualStudio\source\repos\stockboi\stockboi\bin\Debug\Newtonsoft.Json.dll
+G:\VisualStudio\source\repos\stockboi\stockboi\bin\Debug\Newtonsoft.Json.xml
+G:\VisualStudio\source\repos\stockboi\stockboi\obj\Debug\stockboi.csproj.CopyComplete
